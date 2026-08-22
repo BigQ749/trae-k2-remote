@@ -1,0 +1,11 @@
+{
+  "name": "trae-k2-deck",
+  "private": true,
+  "description": "Build the TRAE K2 intro deck",
+  "scripts": {
+    "build": "node build-deck.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}

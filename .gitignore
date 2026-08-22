@@ -1,0 +1,30 @@
+# ESP-IDF
+firmware/ai-passport/build/
+firmware/ai-passport/managed_components/
+firmware/ai-passport/sdkconfig.old
+firmware/ai-passport/dependencies.lock
+
+# Local factory dumps — never publish
+backups/
+*.full.bin
+factory_*.bin
+cardid.bin
+nvs.bin
+
+# Host
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+deck/node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# One-shot local copy helper — do not publish
+scripts/_bootstrap_copy.py
+firmware/ai-passport/README.zh_CN.md

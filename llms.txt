@@ -1,0 +1,12 @@
+# TRAE K2
+
+BLE HID remote firmware for the FoloToy TRAE AI Passport (ESP32-C3 contest badge).
+
+Start: AGENTS.md
+Human from-zero: docs/from-zero.md
+Decisions: CONTEXT.md
+Do not erase NVS after pairing. Do not add GATT. Do not change the HID report map.
+Flash: python scripts/flash.py
+Backup first: python scripts/backup_factory.py
+Bluetooth name: TRAE K2
+Gears: Shandian (Right Ctrl / Enter), PPT (PageUp / PageDown). Short OK cycles. Long OK is menu.

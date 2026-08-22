@@ -1,0 +1,4 @@
+profiles:
+  default:
+    storage_url:
+      - "https://components-file.espressif.cn"
