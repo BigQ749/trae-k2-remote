@@ -12,10 +12,6 @@
 |---|---|
 | <img src="assets/product/shandian.jpg" alt="Shandian 档：上键听写，下键回车" width="360"> | <img src="assets/product/ppt.jpg" alt="PPT 档：上键上一页，下键下一页" width="360"> |
 
-| 立体侧面 | 背面 |
-|---|---|
-| <img src="assets/product/angle.jpg" alt="三键侧面" width="360"> | <img src="assets/product/back.jpg" alt="背面 FoloToy TRAE AI PASSPORT" width="360"> |
-
 | 键 | 作用 |
 |---|---|
 | **上** | 当前档的「上」 |
