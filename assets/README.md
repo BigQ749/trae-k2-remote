@@ -9,3 +9,7 @@
 | `hero.jpg` | README 主图（Shandian 正面） |
 
 `official/` 仅作硬件外形对照，屏上是出厂名片，不是本固件。
+
+小红书封面在 `xhs/`：
+- `xhs-cover-9x16.jpg` 竖屏 9:16
+- `xhs-cover-3x4.jpg` 图文信息流 3:4（发现页占面积更大）
