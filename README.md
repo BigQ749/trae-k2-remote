@@ -5,8 +5,26 @@
 不需要电脑伴侣脚本，不需要云，不需要 App。工牌自己就是一块 Windows 蓝牙键盘。
 
 <p>
-  <img src="assets/hero.jpg" alt="TRAE K2 badge" width="100%">
+  <img src="assets/hero.jpg" alt="TRAE K2 实物正面，屏上 PPT 档" width="100%">
 </p>
+
+真机照片（这块 TRAE 工牌，已刷 TRAE K2）：
+
+| 正面 | 右侧三键 | 背面 |
+|---|---|---|
+| <img src="assets/hero-hand.jpg" alt="手持正面" width="280"> | <img src="assets/side-buttons.jpg" alt="右侧三键" width="280"> | <img src="assets/back.jpg" alt="背面 FoloToy TRAE AI PASSPORT" width="280"> |
+
+对照 FoloToy 官网棚拍（出厂名片界面，不是本固件）：
+
+<p>
+  <img src="assets/official/showcase.png" alt="FoloToy AI Passport 官方产品图" width="70%">
+</p>
+
+工牌遥控的两个软件：
+
+| 闪电说 | PowerPoint |
+|---|---|
+| <img src="assets/apps/shandianshuo.jpg" alt="闪电说界面：直接说 / 帮我说 / 右 Ctrl" width="420"> | <img src="assets/apps/powerpoint.jpg" alt="PowerPoint 放映，PageUp / PageDown 翻页" width="420"> |
 
 | 键 | 作用 |
 |---|---|
@@ -29,7 +47,7 @@
 | 角色 | 从这里开始 |
 |---|---|
 | 手里刚拿到工牌，只想烧进去用 | [docs/from-zero.md](docs/from-zero.md) |
-| 要给现场做演示 / 拍视频 | [docs/video-script.md](docs/video-script.md) · [deck/TRAE-K2.pptx](deck/TRAE-K2.pptx) |
+| 要给现场做演示 / 拍视频 | [docs/video-script.md](docs/video-script.md) · [deck/TRAE-K2-real.pptx](deck/TRAE-K2-real.pptx) |
 | 要改固件、加第三档 | [docs/architecture.md](docs/architecture.md) · [docs/extend-modes.md](docs/extend-modes.md) |
 | **Agent / 编码助手，从零接管这块板** | **[AGENTS.md](AGENTS.md)** |
 

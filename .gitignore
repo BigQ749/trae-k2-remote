@@ -24,7 +24,10 @@ Thumbs.db
 .vscode/
 .idea/
 *.log
+~$*
+deck/~$*
 
 # One-shot local copy helper — do not publish
 scripts/_bootstrap_copy.py
+scripts/_collect_assets.py
 firmware/ai-passport/README.zh_CN.md
