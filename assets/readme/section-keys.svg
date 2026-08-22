@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="t">
+  <title id="t">三键，两档。确认键是换挡，不是确定。</title>
+  <rect width="1200" height="120" rx="22" fill="#07090E"/>
+  <rect x="40" y="36" width="48" height="6" rx="3" fill="#3B9EFF"/>
+  <text x="40" y="28" fill="#8B93A0" font-size="14" font-family="Segoe UI, sans-serif" letter-spacing="2.4">01  CONTROLS</text>
+  <text x="40" y="84" fill="#F3F4F6" font-size="32" font-weight="700" font-family="Microsoft YaHei, Segoe UI, sans-serif">三键，两档。确认键是换挡，不是确定。</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+  <title id="t">TRAE K2：大赛工牌变成口袋遥控器</title>
+  <desc id="d">把 FoloToy TRAE AI Passport 烧成 BLE HID 键盘。闪电说听写，PPT 翻页，不用伴侣脚本。</desc>
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#1C222E" stroke-width="1"/>
+    </pattern>
+    <clipPath id="c"><rect width="1200" height="400" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="400" fill="#07090E"/>
+    <rect width="1200" height="400" fill="url(#g)"/>
+    <text x="56" y="62" fill="#8B93A0" font-size="16" font-family="Segoe UI, sans-serif" letter-spacing="2">CONTEST BADGE  ·  BLE HID</text>
+    <rect x="56" y="74" width="52" height="6" rx="3" fill="#3B9EFF"/>
+    <text x="56" y="160" fill="#F3F4F6" font-size="64" font-weight="700" font-family="Segoe UI, Microsoft YaHei, sans-serif">TRAE K2</text>
+    <rect x="56" y="178" width="236" height="10" rx="5" fill="#E8872A"/>
+    <text x="56" y="230" fill="#CED4DE" font-size="22" font-family="Microsoft YaHei, sans-serif">大赛工牌，变成口袋遥控器。</text>
+    <text x="56" y="266" fill="#8B93A0" font-size="18" font-family="Microsoft YaHei, sans-serif">闪电说听写  ·  PPT 翻页  ·  不用伴侣脚本</text>
+    <text x="56" y="348" fill="#8B93A0" font-size="14" font-family="Consolas, monospace">ESP32-C3   ·   TRAE K2   ·   JUST WORKS</text>
+    <text x="820" y="210" fill="#8B93A0" font-size="18" font-family="Segoe UI, sans-serif">Shandian / PPT</text>
+  </g>
+</svg>

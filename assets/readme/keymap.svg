@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="t d">
+  <title id="t">三键两档</title>
+  <desc id="d">上键和下键执行当前档；确认短按换挡，长按回菜单。</desc>
+  <rect width="1200" height="280" rx="26" fill="#07090E"/>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="32" y="32" width="360" height="216" rx="20" fill="#10151F"/>
+    <text x="56" y="72" fill="#3B9EFF" font-size="18" font-weight="700">SHANDIAN</text>
+    <text x="56" y="116" fill="#F3F4F6" font-size="22">上 = 右 Ctrl</text>
+    <text x="56" y="156" fill="#F3F4F6" font-size="22">下 = Enter</text>
+    <text x="56" y="204" fill="#8B93A0" font-size="18">闪电说开始 / 结束听写</text>
+
+    <rect x="420" y="32" width="360" height="216" rx="20" fill="#10151F"/>
+    <text x="444" y="72" fill="#E8872A" font-size="18" font-weight="700">PPT</text>
+    <text x="444" y="116" fill="#F3F4F6" font-size="22">上 = PageUp</text>
+    <text x="444" y="156" fill="#F3F4F6" font-size="22">下 = PageDown</text>
+    <text x="444" y="204" fill="#8B93A0" font-size="18">上一页 / 下一页</text>
+
+    <rect x="808" y="32" width="360" height="216" rx="20" fill="#10151F"/>
+    <text x="832" y="72" fill="#F3F4F6" font-size="18" font-weight="700">CONFIRM</text>
+    <text x="832" y="116" fill="#F3F4F6" font-size="22">短按 = 换挡</text>
+    <text x="832" y="156" fill="#F3F4F6" font-size="22">长按 = 回菜单</text>
+    <text x="832" y="204" fill="#8B93A0" font-size="18">屏幕立刻改成档位名</text>
+  </g>
+</svg>
